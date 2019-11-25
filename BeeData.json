@@ -1,0 +1,97 @@
+[{
+    "apiary": [{
+            "apiaryID": 1,
+            "beekeeperID": 1,
+            "latitude": 36.216797,
+            "longitude": -81.674533,
+            "name": "Apiary 1",
+            "address": "556 North Carolina Ln.",
+            "country": "USA",
+            "hiveCount": 2,
+            "active": true,
+            "environment": "urban",
+            "lastVisited": "2019-01-01",
+            "timeZone":"EDT",
+            "startDate": "2019-01-01",
+            "orientation": "east",
+            "type": "fixed",
+            "notes": "Apiary 1 GET implementation"
+    }],
+    "beekeeper": {
+        "beekeeperID": 1,
+        "email": "apiary1@gmail.com",
+        "firstname": "Charlie",
+        "lastname": "Brown",
+        "phone": 9048887777
+    }
+},{
+    "apiary": [{
+            "apiaryID": 2,
+            "beekeeperID": 2,
+            "latitude": 36.216797,
+            "longitude": -81.674533,
+            "name": "Apiary 2",
+            "address": "556 Florida St.",
+            "country": "USA",
+            "hiveCount": 2,
+            "active": true,
+            "environment": "urban",
+            "lastVisited": "2019-01-01",
+            "timeZone":"EDT",
+            "startDate": "2019-01-01",
+            "orientation": "east",
+            "type": "fixed",
+            "notes": "Apiary 2 GET implementation"
+    }],
+    "beekeeper": {
+        "beekeeperID": 2,
+        "email": "apiary2@gmail.com",
+        "firstname": "Jane",
+        "lastname": "Doe",
+        "phone": 9048887777
+    }
+}, {
+    "apiary": [{
+            "apiaryID": 3,
+            "beekeeperID": 3,
+            "latitude": 36.216797,
+            "longitude": -81.674533,
+            "name": "Apiary 3",
+            "address": "123 Appalachian St.",
+            "country": "USA",
+            "hiveCount": 2,
+            "active": true,
+            "environment": "urban",
+            "lastVisited": "2019-01-01",
+            "timeZone":"EDT",
+            "startDate": "2019-01-01",
+            "orientation": "east",
+            "type": "fixed",
+            "notes": "Apiary 3 GET implementation"
+        },{
+            "apiaryID": 4,
+            "beekeeperID": 3,
+            "latitude": 36.216797,
+            "longitude": -81.674533,
+            "name": "Apiary 4",
+            "address": "123 Appalachian St.",
+            "country": "USA",
+            "hiveCount": 2,
+            "active": true,
+            "environment": "urban",
+            "lastVisited": "2019-01-01",
+            "timeZone":"EDT",
+            "startDate": "2019-01-01",
+            "orientation": "east",
+            "type": "fixed",
+            "notes": "Apiary 4 GET implementation"
+        }]
+    ,
+    "beekeeper": {
+        "beekeeperID": 3,
+        "email": "apiary3@gmail.com",
+        "firstname": "Brittany",
+        "lastname": "Smith",
+        "phone": 9041234567
+    }
+}]
